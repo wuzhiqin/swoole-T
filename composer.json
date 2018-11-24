@@ -1,0 +1,10 @@
+{
+  "name": "panco/game-log",
+  "require": {
+    "ext-json": "*",
+    "topthink/think-orm": "^1.2"
+  },
+  "require-dev": {
+    "eaglewu/swoole-ide-helper": "dev-master"
+  }
+}

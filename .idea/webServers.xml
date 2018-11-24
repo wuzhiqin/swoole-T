@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e1a7d6ad-5477-49d3-94a9-001e135957c5" name="134.175.200.119" url="http://134.175.200.119">
+        <fileTransfer host="134.175.200.119" port="7915" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="7915" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
